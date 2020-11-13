@@ -9,5 +9,5 @@ Feature: Login
         When I go to Login Okta page
         And I direct to new window Sign In page
         And I input admin username and password sa portal
-        Then I can see SA-Portal Dashboard page
+        Then I can see SA-Portal Dashboard 
 
