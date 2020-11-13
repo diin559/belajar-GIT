@@ -3,7 +3,7 @@ Feature: Login
    As an admin, I want to login into Portal SA Loyalty
 
    Background:
-        Given I am on the SA-Portal homepage
+        Given I am on the SA-Portal home
 
    Scenario: As an admin, I can login with success
         When I go to Login Okta page
